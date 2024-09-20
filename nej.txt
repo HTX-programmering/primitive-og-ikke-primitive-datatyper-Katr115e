@@ -1,0 +1,13 @@
+
+opgave 2.1
+
+integer:4bytes
+float:4 bytes
+char:2bytes
+boolean:1bytes
+byte:1 bytes 8 bits
+short:2 bytes
+long:8 bytes
+double:8bytes
+
+2.2
